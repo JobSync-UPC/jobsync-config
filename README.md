@@ -1,0 +1,2 @@
+# jobsync-config
+JobSync Configuration
